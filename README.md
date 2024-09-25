@@ -67,6 +67,10 @@ npm start
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 
+
+Take your cred.json session to deploy on any platform
+[**session id**](https://sessi-id-by-igwe-tech.onrender.com)
+
 ## `💀DEVELOPER💀` 
 <a href="https://github.com/papaigwe"><img src="https://github.com/papaigwe.png" width="250" height="250" alt="papaigwe"/></a>
 
